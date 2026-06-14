@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the software and the accompanying paper."
+type: software
+title: "Machine Learning-Based Multi-Class Classification of Beta-Thalassemia Trait and Hemoglobin E Carrier Status"
+authors:
+  - family-names: "Rahman"
+    given-names: "Md Rafin"
+    affiliation: "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+    email: "mrahman@ideshi.org"
+  - family-names: "Rose"
+    given-names: "Jafren Iqbal"
+    affiliation: "Shaheed Monsur Ali Medical College and Hospital, Dhaka, Bangladesh"
+  - family-names: "Rahman"
+    given-names: "Md Rofiqur"
+    affiliation: "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+date-released: "2026-06-14"
+license: MIT
+repository-code: "https://github.com/rafin-rahman/thalassemia-ml-classification"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - thalassemia
+  - hemoglobin E
+  - machine learning
+  - HPLC
+  - complete blood count
+  - XGBoost
+  - SHAP
+  - carrier screening
+  - South Asia
+  - Bangladesh
+preferred-citation:
+  type: article
+  title: "Machine Learning-Based Multi-Class Classification of Beta-Thalassemia Trait and Hemoglobin E Carrier Status Using HPLC and Complete Blood Count Parameters"
+  authors:
+    - family-names: "Rahman"
+      given-names: "Md Rafin"
+    - family-names: "Rose"
+      given-names: "Jafren Iqbal"
+    - family-names: "Rahman"
+      given-names: "Md Rofiqur"
+  journal: "PLOS ONE"
+  year: 2026
+  status: "under-review"

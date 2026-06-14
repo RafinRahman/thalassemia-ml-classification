@@ -1,0 +1,54 @@
+{
+  "title": "Analysis code and results for: Machine Learning-Based Multi-Class Classification of Beta-Thalassemia Trait and Hemoglobin E Carrier Status Using HPLC and Complete Blood Count Parameters",
+  "description": "This repository contains the complete Python analysis pipeline, trained model objects, and all figures for the manuscript submitted to PLOS ONE. The study applies six supervised machine learning classifiers (Logistic Regression, KNN, SVM, Random Forest, XGBoost, LightGBM) to a publicly available HPLC-based thalassemia screening dataset of 12,885 individuals from West Bengal, India, for three-class classification of Normal, Beta-Thalassemia Trait, and Hemoglobin E carrier status. SHAP interpretability analysis is included.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Rahman, Md Rafin",
+      "affiliation": "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh",
+      "orcid": ""
+    },
+    {
+      "name": "Rose, Jafren Iqbal",
+      "affiliation": "Shaheed Monsur Ali Medical College and Hospital, Dhaka, Bangladesh",
+      "orcid": ""
+    },
+    {
+      "name": "Rahman, Md Rofiqur",
+      "affiliation": "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "thalassemia",
+    "hemoglobin E",
+    "machine learning",
+    "HPLC",
+    "complete blood count",
+    "XGBoost",
+    "Random Forest",
+    "LightGBM",
+    "SHAP",
+    "carrier screening",
+    "South Asia",
+    "Bangladesh",
+    "West Bengal",
+    "class imbalance",
+    "SMOTE"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://www.kaggle.com/datasets/abhraghoshcmc/hplc-based-thalassemia-screening-data",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ],
+  "communities": [
+    {"identifier": "zenodo"}
+  ],
+  "language": "eng",
+  "notes": "Please add your ORCID iDs in the creators section before publishing. Replace the DOI placeholder in README.md once the Zenodo DOI is reserved. The source dataset is not redistributed in this archive; download instructions are in data/README_data.md."
+}
